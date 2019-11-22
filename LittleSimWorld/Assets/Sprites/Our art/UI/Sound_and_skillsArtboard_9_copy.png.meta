@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 7cae45467dfdc8247b149cbc87bd1b2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3573835207334203460
+    second: Stats UI_0
+  - first:
+      213: -5717580746784781986
+    second: Stats UI_1
+  - first:
+      213: -2758367808317876218
+    second: Stats UI_2
+  - first:
+      213: -5923411290685985506
+    second: Stats UI_3
+  - first:
+      213: 4656798388972139167
+    second: Stats UI_5
+  - first:
+      213: -7407408752732558015
+    second: Stats UI_6
+  - first:
+      213: 4916417360858496644
+    second: Stats UI_7
+  - first:
+      213: -6162746595002152709
+    second: Stats UI_8
+  - first:
+      213: 1342335526120136631
+    second: Stats UI_9
+  - first:
+      213: 8494090477088067975
+    second: Stats UI_10
+  - first:
+      213: -417727030057659031
+    second: Stats UI_11
+  - first:
+      213: 8622564320622762292
+    second: Sound_and_skillsArtboard_9_copy_0
+  - first:
+      213: -5958284887922258017
+    second: Sound_and_skillsArtboard_9_copy_1
+  - first:
+      213: 3641395639806242641
+    second: Sound_and_skillsArtboard_9_copy_2
+  - first:
+      213: 2821157349954270597
+    second: Sound_and_skillsArtboard_9_copy_3
+  - first:
+      213: 5312087990934913716
+    second: Sound_and_skillsArtboard_9_copy_4
+  - first:
+      213: -4055715800076963181
+    second: Sound_and_skillsArtboard_9_copy_5
+  - first:
+      213: 4639964400268431369
+    second: Sound_and_skillsArtboard_9_copy_6
+  - first:
+      213: 4819033284395473516
+    second: Sound_and_skillsArtboard_9_copy_7
+  - first:
+      213: 8114112031024250818
+    second: Sound_and_skillsArtboard_9_copy_8
+  - first:
+      213: -5899736985250140173
+    second: Sound_and_skillsArtboard_9_copy_9
+  - first:
+      213: 4239712425887038381
+    second: Sound_and_skillsArtboard_9_copy_10
+  - first:
+      213: -2919755059898022820
+    second: Sound_and_skillsArtboard_9_copy_11
+  - first:
+      213: -5305898601321810571
+    second: Sound_and_skillsArtboard_9_copy_12
+  - first:
+      213: 4775618193920153919
+    second: Sound_and_skillsArtboard_9_copy_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 599
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8b3142e670c54caca24a28ca9e05b
+      internalID: 8622564320622762292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a25dac8bd601a4479b2e1dfcdd1c620
+      internalID: -5958284887922258017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 600
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d046dd7d05f2759489cc7c88e0e63391
+      internalID: 3641395639806242641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd13b7b90a1fe478b3f899549972b0
+      internalID: 2821157349954270597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_4
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 431
+        width: 281
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019228f9eb39514782c3ffaecaf33c3
+      internalID: 5312087990934913716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_5
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 451
+        width: 242
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 81, y: 129, z: 81, w: 81}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c842fde1d6081a40b0f968f96266abd
+      internalID: -4055715800076963181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_6
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 431
+        width: 281
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9722e694b1d49d646ab361c4f3b175b6
+      internalID: 4639964400268431369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_7
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 431
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a466d07c827f1419408373dfccf5c0
+      internalID: 4819033284395473516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 360
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 120, y: 168, z: 120, w: 121}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f31a9893add5344c8e5cdcd2bff5391
+      internalID: 8114112031024250818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 180
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 87, z: 55, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0f5ba44078f54b8b96c84bfd80c9b
+      internalID: -5899736985250140173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 181
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 55, z: 56, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796985c54982664fa806cb0e56189c5
+      internalID: 4239712425887038381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 61}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73830a96abf78974e98f9185788c0d38
+      internalID: -2919755059898022820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_12
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 120
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 43, z: 43, w: 43}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aeefe7d5b143147be12ae917b6fc17
+      internalID: -5305898601321810571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_and_skillsArtboard_9_copy_13
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 120
+        width: 144
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 80, z: 48, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c805715ea907c46b428701a0519063
+      internalID: 4775618193920153919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c67fa076de7527d47b3bdb513ca63b5d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: UI
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

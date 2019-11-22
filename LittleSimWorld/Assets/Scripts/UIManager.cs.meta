@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 10fc44bb5a5b9da4889ef96f4b7a8638
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HPText: {instanceID: 0}
+  - statsUI: {instanceID: 0}
+  - HealthBar: {instanceID: 0}
+  - EnergyBar: {instanceID: 0}
+  - FoodBar: {instanceID: 0}
+  - MoodBar: {instanceID: 0}
+  - BlladerBar: {instanceID: 0}
+  - HygieneBar: {instanceID: 0}
+  - SanityBar: {instanceID: 0}
+  - ThirstBar: {instanceID: 0}
+  - Money: {instanceID: 0}
+  - ActionText: {instanceID: 0}
+  - actionBar: {instanceID: 0}
+  - XPbar: {instanceID: 0}
+  - LevelingSkill: {instanceID: 0}
+  - CurrentSkillImage: {instanceID: 0}
+  - Intelligence: {instanceID: 0}
+  - Strength: {instanceID: 0}
+  - Fitness: {instanceID: 0}
+  - Repair: {instanceID: 0}
+  - Charisma: {instanceID: 0}
+  - Cooking: {instanceID: 0}
+  - ChatGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b35c27ae1d86345b2d386584041ec7, type: 3}
+  m_Name: Stove Tier 2
+  m_EditorClassIdentifier: 
+  upgradableGO: {fileID: 0}
+  upgradesInto: {fileID: 7645038017712707702, guid: 6c136126af7e88140ae85878469d322f,
+    type: 3}
+  nextShopUpgrade:
+    upgradableGO: {fileID: 0}
+    upgradesInto: {fileID: 0}
+    currentUpgradeSO: {fileID: 0}
+    nextUpgradeSO: {fileID: 0}
+    price: 0
+    icon: {fileID: 0}
+    PathCore: 
+    upgradeLevel: 0
+    isAlreadyBought: 0
+  nextShopUpgradeSO: {fileID: 0}
+  price: 50
+  icon: {fileID: 313920273031389104, guid: 77466f25f007dd64093af69bde7b48e3, type: 3}
+  PathCore: Stove
+  upgradeLevel: 2

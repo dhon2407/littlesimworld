@@ -1,0 +1,2963 @@
+fileFormatVersion: 2
+guid: c0f07f5242eef6545a790b28b9bb3d4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7656176831479119658
+    second: player_gym_pub_furniture_tesco_0
+  - first:
+      213: -3876347397131489892
+    second: player_gym_pub_furniture_tesco_1
+  - first:
+      213: -4388818040682146142
+    second: player_gym_pub_furniture_tesco_2
+  - first:
+      213: -35675357728472554
+    second: player_gym_pub_furniture_tesco_3
+  - first:
+      213: 3887155818416775739
+    second: player_gym_pub_furniture_tesco_4
+  - first:
+      213: -2795484073055833589
+    second: player_gym_pub_furniture_tesco_5
+  - first:
+      213: -6737527431548270606
+    second: player_gym_pub_furniture_tesco_6
+  - first:
+      213: -5353314392033772483
+    second: player_gym_pub_furniture_tesco_7
+  - first:
+      213: 270580703232544081
+    second: player_gym_pub_furniture_tesco_8
+  - first:
+      213: -5912720603023643618
+    second: player_gym_pub_furniture_tesco_9
+  - first:
+      213: -7565213289156046200
+    second: player_gym_pub_furniture_tesco_10
+  - first:
+      213: -5984665051009117514
+    second: player_gym_pub_furniture_tesco_11
+  - first:
+      213: 7332175709231359726
+    second: player_gym_pub_furniture_tesco_12
+  - first:
+      213: -3463461881753585584
+    second: player_gym_pub_furniture_tesco_13
+  - first:
+      213: 4489376774149218650
+    second: player_gym_pub_furniture_tesco_14
+  - first:
+      213: -129942732021319993
+    second: player_gym_pub_furniture_tesco_15
+  - first:
+      213: -6876983463514609291
+    second: player_gym_pub_furniture_tesco_16
+  - first:
+      213: 4280855375243704476
+    second: player_gym_pub_furniture_tesco_17
+  - first:
+      213: -3956434782817466515
+    second: player_gym_pub_furniture_tesco_18
+  - first:
+      213: 4126091780862314536
+    second: player_gym_pub_furniture_tesco_19
+  - first:
+      213: -3112820358975442314
+    second: player_gym_pub_furniture_tesco_20
+  - first:
+      213: -3548818608383782444
+    second: player_gym_pub_furniture_tesco_21
+  - first:
+      213: 4516099368184998589
+    second: player_gym_pub_furniture_tesco_22
+  - first:
+      213: 7375645122743135789
+    second: player_gym_pub_furniture_tesco_23
+  - first:
+      213: 368034535663905984
+    second: player_gym_pub_furniture_tesco_24
+  - first:
+      213: -4148615783690479124
+    second: player_gym_pub_furniture_tesco_25
+  - first:
+      213: -3226501863874116394
+    second: player_gym_pub_furniture_tesco_26
+  - first:
+      213: -1159294704928626083
+    second: player_gym_pub_furniture_tesco_27
+  - first:
+      213: 3054606202468805257
+    second: player_gym_pub_furniture_tesco_28
+  - first:
+      213: -3325545137293984029
+    second: player_gym_pub_furniture_tesco_29
+  - first:
+      213: 3261386182615858879
+    second: player_gym_pub_furniture_tesco_30
+  - first:
+      213: 4053942024083130187
+    second: player_gym_pub_furniture_tesco_31
+  - first:
+      213: -1558834546817579144
+    second: player_gym_pub_furniture_tesco_32
+  - first:
+      213: 3025800662362736226
+    second: player_gym_pub_furniture_tesco_33
+  - first:
+      213: 1268982877026097184
+    second: player_gym_pub_furniture_tesco_34
+  - first:
+      213: 3244887476758521038
+    second: player_gym_pub_furniture_tesco_35
+  - first:
+      213: 683142295768205652
+    second: player_gym_pub_furniture_tesco_36
+  - first:
+      213: -2011960915424429531
+    second: player_gym_pub_furniture_tesco_37
+  - first:
+      213: -5488393818710674271
+    second: player_gym_pub_furniture_tesco_38
+  - first:
+      213: 525397715415948166
+    second: player_gym_pub_furniture_tesco_39
+  - first:
+      213: -6180883108149688317
+    second: player_gym_pub_furniture_tesco_40
+  - first:
+      213: 2061875882711243594
+    second: player_gym_pub_furniture_tesco_41
+  - first:
+      213: 1205825476810668999
+    second: player_gym_pub_furniture_tesco_42
+  - first:
+      213: 3912590030324399068
+    second: player_gym_pub_furniture_tesco_43
+  - first:
+      213: 7351476638238203876
+    second: player_gym_pub_furniture_tesco_44
+  - first:
+      213: 9108592752362623161
+    second: player_gym_pub_furniture_tesco_45
+  - first:
+      213: -4817131126380544407
+    second: player_gym_pub_furniture_tesco_46
+  - first:
+      213: -6356879476683744246
+    second: player_gym_pub_furniture_tesco_47
+  - first:
+      213: -1477587276431758437
+    second: player_gym_pub_furniture_tesco_48
+  - first:
+      213: 8106876724136148258
+    second: player_gym_pub_furniture_tesco_49
+  - first:
+      213: -3069601564035581927
+    second: player_gym_pub_furniture_tesco_50
+  - first:
+      213: 3864497813665276918
+    second: player_gym_pub_furniture_tesco_51
+  - first:
+      213: 1968275110374816876
+    second: player_gym_pub_furniture_tesco_52
+  - first:
+      213: -5899299174991888995
+    second: player_gym_pub_furniture_tesco_53
+  - first:
+      213: -7437244772661088696
+    second: player_gym_pub_furniture_tesco_54
+  - first:
+      213: 8823552757811188992
+    second: player_gym_pub_furniture_tesco_55
+  - first:
+      213: 3952989878011561505
+    second: player_gym_pub_furniture_tesco_56
+  - first:
+      213: 5787123761254604729
+    second: player_gym_pub_furniture_tesco_57
+  - first:
+      213: 9201216037007715777
+    second: player_gym_pub_furniture_tesco_58
+  - first:
+      213: 3332030441161404514
+    second: player_gym_pub_furniture_tesco_59
+  - first:
+      213: -3025895159155903191
+    second: player_gym_pub_furniture_tesco_60
+  - first:
+      213: -8479452469093910319
+    second: player_gym_pub_furniture_tesco_61
+  - first:
+      213: -3296076094513972344
+    second: player_gym_pub_furniture_tesco_62
+  - first:
+      213: -2666936950321937415
+    second: player_gym_pub_furniture_tesco_63
+  - first:
+      213: -6834632365197344962
+    second: player_gym_pub_furniture_tesco_64
+  - first:
+      213: 6321556228425144340
+    second: player_gym_pub_furniture_tesco_65
+  - first:
+      213: -8382537663552444026
+    second: player_gym_pub_furniture_tesco_66
+  - first:
+      213: -8336206236827153129
+    second: player_gym_pub_furniture_tesco_67
+  - first:
+      213: -6377160455454228528
+    second: player_gym_pub_furniture_tesco_68
+  - first:
+      213: 6109022866441751142
+    second: player_gym_pub_furniture_tesco_69
+  - first:
+      213: -8805143305171179067
+    second: player_gym_pub_furniture_tesco_70
+  - first:
+      213: 2823358383353614041
+    second: player_gym_pub_furniture_tesco_71
+  - first:
+      213: 1591231915905002832
+    second: player_gym_pub_furniture_tesco_72
+  - first:
+      213: -3346365010973849051
+    second: player_gym_pub_furniture_tesco_73
+  - first:
+      213: 4476840772387889285
+    second: player_gym_pub_furniture_tesco_74
+  - first:
+      213: 6165411400020132579
+    second: player_gym_pub_furniture_tesco_75
+  - first:
+      213: 5260496972361432828
+    second: player_gym_pub_furniture_tesco_76
+  - first:
+      213: -5245807918769778977
+    second: player_gym_pub_furniture_tesco_77
+  - first:
+      213: 4444250072111364621
+    second: player_gym_pub_furniture_tesco_78
+  - first:
+      213: -2407192295738377090
+    second: player_gym_pub_furniture_tesco_79
+  - first:
+      213: -806536503336905700
+    second: player_gym_pub_furniture_tesco_80
+  - first:
+      213: -2957380201076557836
+    second: player_gym_pub_furniture_tesco_81
+  - first:
+      213: 7373631919977717930
+    second: player_gym_pub_furniture_tesco_82
+  - first:
+      213: -5471729715991776342
+    second: player_gym_pub_furniture_tesco_83
+  - first:
+      213: 7138837590890128347
+    second: player_gym_pub_furniture_tesco_84
+  - first:
+      213: 724232107693019791
+    second: player_gym_pub_furniture_tesco_85
+  - first:
+      213: 7441108156216062002
+    second: player_gym_pub_furniture_tesco_86
+  - first:
+      213: -5036369869254198329
+    second: player_gym_pub_furniture_tesco_87
+  - first:
+      213: 534584466263022670
+    second: player_gym_pub_furniture_tesco_88
+  - first:
+      213: 9059129550364600984
+    second: player_gym_pub_furniture_tesco_89
+  - first:
+      213: 1690979124662891240
+    second: player_gym_pub_furniture_tesco_90
+  - first:
+      213: 2656062642703513106
+    second: player_gym_pub_furniture_tesco_91
+  - first:
+      213: -3725630020431606609
+    second: player_gym_pub_furniture_tesco_92
+  - first:
+      213: 410919515877031625
+    second: player_gym_pub_furniture_tesco_93
+  - first:
+      213: 2632064269509338337
+    second: player_gym_pub_furniture_tesco_94
+  - first:
+      213: -9213655919920768549
+    second: player_gym_pub_furniture_tesco_95
+  - first:
+      213: 6321514229486410244
+    second: player_gym_pub_furniture_tesco_96
+  - first:
+      213: 5689321044320748914
+    second: player_gym_pub_furniture_tesco_97
+  - first:
+      213: -3500320156987638775
+    second: player_gym_pub_furniture_tesco_98
+  - first:
+      213: 7581195740974492477
+    second: player_gym_pub_furniture_tesco_99
+  - first:
+      213: -688636923544607468
+    second: player_gym_pub_furniture_tesco_100
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a7fe8c98f5b5c46ab0da3bdaadd44e
+      internalID: -7656176831479119658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d731d4205d471f459bc920bf0181bae
+      internalID: -3876347397131489892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb3170263e16a4aa27a7f48a1bf066
+      internalID: -4388818040682146142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8d0708a3ca3f4e8839bee120a52d4
+      internalID: -35675357728472554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea705404be9d2945adae7c97c84d7d3
+      internalID: 3887155818416775739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25ba7b71ad5ae46a98c864e263dd57
+      internalID: -2795484073055833589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a168f193e5cc4ab8a08348f2c5b3f
+      internalID: -6737527431548270606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3263ad4638f14d40b1e8624de866ff8
+      internalID: -5353314392033772483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30ed3f254e05a42bbd3c43a55c1c75
+      internalID: 270580703232544081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb13a09faec1ce418f3878ad5defea1
+      internalID: -5912720603023643618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050371c249674be418ec92b767ec6c38
+      internalID: -7565213289156046200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25911cd81f7b2348bca57a60521277b
+      internalID: -5984665051009117514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56465f9fbda636d4fb12d88f505a2b85
+      internalID: 7332175709231359726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eff9835e07adc46bb1ad276299986e
+      internalID: -3463461881753585584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e763bb8561cd964692ad6656a1c5c9d
+      internalID: 4489376774149218650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df821a3736996342baa1e3f04c738c3
+      internalID: -129942732021319993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_16
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488c5c6757cfcb45a366849bedcdaca
+      internalID: -6876983463514609291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: -128}
+        - {x: -46, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c44f72be478134b99bd3e61d14b99e
+      internalID: 4280855375243704476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 46, y: -127}
+        - {x: 51, y: -128}
+        - {x: 124, y: -128}
+        - {x: 128, y: -122}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7ba0c429678a4ab7327bb59c1fba9
+      internalID: -3956434782817466515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0dc3943a1cc05488899bcb2532d150
+      internalID: 4126091780862314536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 46, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d6c0773b199440a2f5afd778c5477
+      internalID: -3112820358975442314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_21
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7d5003c25826478e3efaa0fa7dfb4
+      internalID: -3548818608383782444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_22
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 30, y: -128}
+        - {x: 125, y: -128}
+        - {x: 128, y: -122}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905b280b79182824fa2497f5e7395e1c
+      internalID: 4516099368184998589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c153372d041f47b6302b6a566be34
+      internalID: 7375645122743135789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 30, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87f1c0db680bf4d99be0e67c9496b9
+      internalID: 368034535663905984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: -128}
+        - {x: -46, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074645a5967b16b4fa7dd57ed9c28560
+      internalID: -4148615783690479124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_26
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abbe61080c90f04bbac78dd94526163
+      internalID: -3226501863874116394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_27
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 46, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1747e0fd709740ab7fc2942f19ada
+      internalID: -1159294704928626083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -5, y: -128}
+        - {x: -6, y: -125}
+        - {x: -46, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200faccd457e324aa8556d1ca5d82ac
+      internalID: 3054606202468805257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 47, y: 28}
+        - {x: 43, y: -102}
+        - {x: 14, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147af78d397df434d9921ed62babad81
+      internalID: -3325545137293984029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -85, y: -128}
+        - {x: -85, y: -125}
+        - {x: -118, y: -85}
+        - {x: -128, y: -85}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31067c01755c1a14e919e7ba16271041
+      internalID: 3261386182615858879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045eccaf217a398449051f4de584026f
+      internalID: 4053942024083130187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_32
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 5, y: -119}
+        - {x: 5, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f4bf4b92852345a4764b24db6a647
+      internalID: -1558834546817579144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_33
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 11, y: -128}
+        - {x: 10, y: -125}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f28a2a69c53674e8665303cb2c73e4
+      internalID: 3025800662362736226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: -11, y: -119}
+        - {x: -11, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2990422e6653f4fb7e453ff7b9049b
+      internalID: 1268982877026097184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_35
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: -128}
+        - {x: -46, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d746698483b80943876736ffde0ff19
+      internalID: 3244887476758521038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_36
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 46, y: -119}
+        - {x: 47, y: -122}
+        - {x: 53, y: -128}
+        - {x: 123, y: -128}
+        - {x: 128, y: -123}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5707412d2c0c7944b4ad099c748ef54
+      internalID: 683142295768205652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -12, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ff55a23aa93d4c8e1d4420dc1ab1a
+      internalID: -2011960915424429531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c551894b10371249a596383c199d310
+      internalID: -5488393818710674271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a489c558822a4ab1b1ccbff58801b
+      internalID: 525397715415948166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67968a7c4d705be469da35a194056aed
+      internalID: -6180883108149688317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e92757d753fdfe45a4ca3a9754ef5c6
+      internalID: 2061875882711243594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947aa706dda854244bbb28224b0fe393
+      internalID: 1205825476810668999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 2, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848fe351d911834081fc32b91f46942
+      internalID: 3912590030324399068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b3901989d07f44b90af3bc96cdfa7
+      internalID: 7351476638238203876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_45
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 5, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556fd3358f28acf4384cecc94330a476
+      internalID: 9108592752362623161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_46
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d930d677eaaae64a8450432204e47c5
+      internalID: -4817131126380544407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa5adcd71b385d4486a39c48a09a8d7
+      internalID: -6356879476683744246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_48
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab118cfeacbd04eadae4a6c582d1ca
+      internalID: -1477587276431758437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_49
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: -7, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661c4fe57930cc4792db70ca2626fb0
+      internalID: 8106876724136148258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_50
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b857b1fddf32ae4fadafa3f19134241
+      internalID: -3069601564035581927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_51
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: -128}
+        - {x: -46, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6be24c9fae334ab1e8a065a7b70cd
+      internalID: 3864497813665276918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_52
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: -9}
+        - {x: 48, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0075e31b9a86174994dd1b7ac69e6ef
+      internalID: 1968275110374816876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_53
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -25, y: -128}
+        - {x: -26, y: -125}
+        - {x: -46, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad45bcd3deb20f48b43958ca2be88ad
+      internalID: -5899299174991888995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_54
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 47, y: -116}
+        - {x: 25, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea079c4ab3ed81468e14368cf300016
+      internalID: -7437244772661088696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e57d749fefe5448ea4cb96a372a73
+      internalID: 8823552757811188992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d28ad12e4c648a4ca1e8b19f828fd00
+      internalID: 3952989878011561505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3edd8a07f10dec488d73455c078ff4b
+      internalID: 5787123761254604729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961226dc3331bd4199878645cb49137
+      internalID: 9201216037007715777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4066efeb044c38e478a590f98c5f3762
+      internalID: 3332030441161404514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_60
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4394831691d3e438871669e8f6e983
+      internalID: -3025895159155903191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_61
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78570fe6ca4e140479eb34352762ac0e
+      internalID: -8479452469093910319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_62
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9bd6134f65ce499f14e31681f2b69
+      internalID: -3296076094513972344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_63
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295722954917c4d4189c603ee0d1bd3d
+      internalID: -2666936950321937415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_64
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960cf9b6e0809d641a3c4cf976d655fd
+      internalID: -6834632365197344962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_65
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82486798d4ee684439a9a98c67e72936
+      internalID: 6321556228425144340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_66
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd67d8cd42e02524290611e2f80ce96a
+      internalID: -8382537663552444026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_67
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -34, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69efaeb04b88e489cb2f8c52ccd9f3
+      internalID: -8336206236827153129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_68
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211460225b9acc44b7a969ee1b8c868
+      internalID: -6377160455454228528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_69
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 30, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb30813ba163a0459fb92990bd18710
+      internalID: 6109022866441751142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225983777d84de4da03d82a4ec7883f
+      internalID: -8805143305171179067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_71
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe173e8ab7776f43b3159cc866d2ffa
+      internalID: 2823358383353614041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e44500779465e64e98ec06330c54e97
+      internalID: 1591231915905002832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_73
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78b7b7172a2454e984b45a533fee53
+      internalID: -3346365010973849051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_74
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 30, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3389002dd28b234a863586d9847258f
+      internalID: 4476840772387889285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_75
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7f52b0ad2a08488830ba7593a38c5
+      internalID: 6165411400020132579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_76
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781592979d1d3641a2188b4de342776
+      internalID: 5260496972361432828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_77
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 30, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546448aabed91b4bb24b639e4d75d72
+      internalID: -5245807918769778977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b6b140fe3a1b4d95e99624ca9311e
+      internalID: 4444250072111364621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_79
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ace1766f1ebe4388980c17b00c1ce
+      internalID: -2407192295738377090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_80
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba9989c112635b4dbcf553d79061279
+      internalID: -806536503336905700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_81
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ea6b9581746d4fa881c6372e396ec
+      internalID: -2957380201076557836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 30, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beb617c6d34f194ca387dadf512613c
+      internalID: 7373631919977717930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_83
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 11, y: -128}
+        - {x: 10, y: -125}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3320a79bf5e8341a6565cd714341a6
+      internalID: -5471729715991776342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_84
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: -11, y: -119}
+        - {x: -11, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dfc3954e5ad9e409601762bc458d83
+      internalID: 7138837590890128347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 11, y: -128}
+        - {x: 10, y: -125}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623bb4936feadf438b8d6176decf757
+      internalID: 724232107693019791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d65491dd4674e4398ace8d792e4fab
+      internalID: 7441108156216062002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a58bffeee596540bc5dcb0f981ed19
+      internalID: -5036369869254198329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a3fc9967376148b957a2dfa3977d9
+      internalID: 534584466263022670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_89
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: -11, y: -119}
+        - {x: -11, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ba2fbdcf585249b696a8392bfce3c
+      internalID: 9059129550364600984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_90
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: -128, y: 128}
+        - {x: 7, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff0a7787c483c489db02e50e033166
+      internalID: 1690979124662891240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_91
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87ea1bd3a6c114d843af02e0d4790b
+      internalID: 2656062642703513106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_92
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cefaf71621fcf46909f92ae0a3b7ba
+      internalID: -3725630020431606609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_93
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: -8, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02197f020d3547d48b12a77b6e860440
+      internalID: 410919515877031625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_94
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5efa3122f04584b9757e671b96ed07
+      internalID: 2632064269509338337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd2621846863b143be6a4eb638e0c7f
+      internalID: -9213655919920768549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023cc75d52d5b0c4492e895ecb5d8c05
+      internalID: 6321514229486410244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd684e1f16039479cc4b4d94014936
+      internalID: 5689321044320748914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_98
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967952292dc517249b3bd67403cdd497
+      internalID: -3500320156987638775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_99
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a315ecd03b56d3d4f8f9cebe91f59589
+      internalID: 7581195740974492477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_gym_pub_furniture_tesco_100
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f37b964b26662547a798020fb2d8947
+      internalID: -688636923544607468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -128, y: -128}
+      - {x: -128, y: -58}
+      - {x: 128, y: -58}
+      - {x: 128, y: -128}
+    bones: []
+    spriteID: 575c6e5d04dee084ba67adab04cae676
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Tiles
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

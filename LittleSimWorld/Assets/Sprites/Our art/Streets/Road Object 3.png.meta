@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: ffe1a00a942425642877dbb072c2c9dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player house 2_5
+  - first:
+      213: 21300002
+    second: Player house 2_6
+  - first:
+      213: 21300004
+    second: Player house 2_7
+  - first:
+      213: 21300006
+    second: Player house 2_8
+  - first:
+      213: 21300008
+    second: Player house 2_9
+  - first:
+      213: 21300010
+    second: Player house 2_10
+  - first:
+      213: 21300012
+    second: Player house 2_11
+  - first:
+      213: 21300014
+    second: Player house 2_12
+  - first:
+      213: 21300016
+    second: Player house 2_13
+  - first:
+      213: 21300018
+    second: Player house 2_14
+  - first:
+      213: 21300020
+    second: Player house 2_15
+  - first:
+      213: 21300022
+    second: Player house 2_16
+  - first:
+      213: 21300024
+    second: Player house 2_17
+  - first:
+      213: 21300026
+    second: Player house 2_18
+  - first:
+      213: 21300028
+    second: Road Object 3_0
+  - first:
+      213: 21300030
+    second: Road Object 3_1
+  - first:
+      213: 21300032
+    second: Road Object 3_2
+  - first:
+      213: 21300034
+    second: Road Object 3_3
+  - first:
+      213: 21300036
+    second: Road Object 3_4
+  - first:
+      213: 21300038
+    second: Road Object 3_5
+  - first:
+      213: 21300040
+    second: Road Object 3_6
+  - first:
+      213: 21300042
+    second: Road Object 3_7
+  - first:
+      213: 21300044
+    second: Road Object 3_8
+  - first:
+      213: 21300046
+    second: Road Object 3_9
+  - first:
+      213: 21300048
+    second: Road Object 3_10
+  - first:
+      213: 21300050
+    second: Road Object 3_11
+  - first:
+      213: 21300052
+    second: Road Object 3_12
+  - first:
+      213: 21300054
+    second: Road Object 3_13
+  - first:
+      213: 21300056
+    second: Road Object 3_14
+  - first:
+      213: 21300058
+    second: Road Object 3_15
+  - first:
+      213: 21300060
+    second: Road Object 3_16
+  - first:
+      213: 21300062
+    second: Road Object 3_17
+  - first:
+      213: 21300064
+    second: Road Object 3_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 850
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Road Object 3_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1648
+        width: 594
+        height: 1565
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c950a4cde39bb64a9d49d14d217b2c2
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_1
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1648
+        width: 201
+        height: 1565
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fd8db690ae49547874527d9fa18116
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1648
+        width: 594
+        height: 1565
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28903020976c3c4d8551ea696dfcb3f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_3
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1648
+        width: 701
+        height: 1565
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730fc8b807f04b439ee33f2dcfdbcaa
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_4
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1576
+        width: 356
+        height: 1637
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9421187fa6a69143a8edfb4dfb6b7a7
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_5
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1861
+        width: 1213
+        height: 1356
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e921f40755254fa848e9484b088d8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_6
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 892
+        width: 594
+        height: 2321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e36558c3079546987d839374fc6df
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1131
+        width: 380
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f462ca663a42e8449c5c728e2bfac28
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1108
+        width: 285
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f80577be404ee47b60e98247411e49
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1108
+        width: 285
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f25c8e3239484084449243021e458
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_10
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 424
+        width: 413
+        height: 1169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8de45711343754e93f482ce34621e4
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_11
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 424
+        width: 743
+        height: 1133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522f4992009b05246844f579fa621c2b
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_12
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1144
+        width: 738
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae768dcaf6af964478f37a1c9525b874
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_13
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 28
+        width: 540
+        height: 1817
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f21fdf8997a30940ab5f16dc0dfd642
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_14
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 28
+        width: 540
+        height: 1817
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f6afaec26d64b4fa06873fc1a272d5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 784
+        width: 377
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e5349888c6294c8e790cfaf6a73c3
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_16
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 791
+        width: 376
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ee1dcc915cda4ca229a53c1fe5ac8
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_17
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 784
+        width: 738
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd744c1235e4e747bfc17d794e50ccd
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road Object 3_18
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 424
+        width: 738
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c466bd9a7f05478ebc1c70e802c3e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8046cd2b8a5bebc47ad6455006afc60d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Objects
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

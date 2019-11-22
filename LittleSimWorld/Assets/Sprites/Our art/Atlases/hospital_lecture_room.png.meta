@@ -1,0 +1,2295 @@
+fileFormatVersion: 2
+guid: 8a1246db24915094baf733823cd2f4bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3368206689519127005
+    second: hospital_lecture_room_0
+  - first:
+      213: 333489704207133146
+    second: hospital_lecture_room_1
+  - first:
+      213: -5206368299431871004
+    second: hospital_lecture_room_2
+  - first:
+      213: -717189407158118892
+    second: hospital_lecture_room_3
+  - first:
+      213: 5938613464291482113
+    second: hospital_lecture_room_4
+  - first:
+      213: 3330397250271511940
+    second: hospital_lecture_room_5
+  - first:
+      213: 7014015364055332556
+    second: hospital_lecture_room_6
+  - first:
+      213: 3395633622498394872
+    second: hospital_lecture_room_7
+  - first:
+      213: 6639014942733559172
+    second: hospital_lecture_room_8
+  - first:
+      213: -2052419711550351524
+    second: hospital_lecture_room_9
+  - first:
+      213: 5475626308631355330
+    second: hospital_lecture_room_10
+  - first:
+      213: -6771580372054947778
+    second: hospital_lecture_room_11
+  - first:
+      213: -4312074127204238544
+    second: hospital_lecture_room_12
+  - first:
+      213: -1717387665099776372
+    second: hospital_lecture_room_13
+  - first:
+      213: -4800912132779228768
+    second: hospital_lecture_room_14
+  - first:
+      213: 4482906082551747482
+    second: hospital_lecture_room_15
+  - first:
+      213: 7807444661924963582
+    second: hospital_lecture_room_16
+  - first:
+      213: -4637424900409224251
+    second: hospital_lecture_room_17
+  - first:
+      213: 8292292134085358229
+    second: hospital_lecture_room_18
+  - first:
+      213: 3217242579768076672
+    second: hospital_lecture_room_19
+  - first:
+      213: 4014577936813031525
+    second: hospital_lecture_room_20
+  - first:
+      213: 7424992478197227598
+    second: hospital_lecture_room_21
+  - first:
+      213: 3049514642665080347
+    second: hospital_lecture_room_22
+  - first:
+      213: -1312769109728920563
+    second: hospital_lecture_room_23
+  - first:
+      213: -8654082610104279457
+    second: hospital_lecture_room_24
+  - first:
+      213: 4492844123616596517
+    second: hospital_lecture_room_25
+  - first:
+      213: 2381157094520009003
+    second: hospital_lecture_room_26
+  - first:
+      213: 8956920061849784591
+    second: hospital_lecture_room_27
+  - first:
+      213: 5903580001224104230
+    second: hospital_lecture_room_28
+  - first:
+      213: -7910361933654442813
+    second: hospital_lecture_room_29
+  - first:
+      213: 490207635472760551
+    second: hospital_lecture_room_30
+  - first:
+      213: -631590428540394198
+    second: hospital_lecture_room_31
+  - first:
+      213: -3296964304327345808
+    second: hospital_lecture_room_32
+  - first:
+      213: -3756873200624480789
+    second: hospital_lecture_room_33
+  - first:
+      213: -2372556613072467152
+    second: hospital_lecture_room_34
+  - first:
+      213: -3400450675930270854
+    second: hospital_lecture_room_35
+  - first:
+      213: 4064924386708547093
+    second: hospital_lecture_room_36
+  - first:
+      213: 1035643993577757923
+    second: hospital_lecture_room_37
+  - first:
+      213: -2552901981573299890
+    second: hospital_lecture_room_38
+  - first:
+      213: -7783119129071747148
+    second: hospital_lecture_room_39
+  - first:
+      213: 6269165898259138619
+    second: hospital_lecture_room_40
+  - first:
+      213: 9126988476571062399
+    second: hospital_lecture_room_41
+  - first:
+      213: 7297832757370369145
+    second: hospital_lecture_room_42
+  - first:
+      213: -582433142565108078
+    second: hospital_lecture_room_43
+  - first:
+      213: 4082315107043068592
+    second: hospital_lecture_room_44
+  - first:
+      213: -5270640119044825328
+    second: hospital_lecture_room_45
+  - first:
+      213: -4561881530717287353
+    second: hospital_lecture_room_46
+  - first:
+      213: 993405294404686282
+    second: hospital_lecture_room_47
+  - first:
+      213: 7799388311225555741
+    second: hospital_lecture_room_48
+  - first:
+      213: 5830867014004944347
+    second: hospital_lecture_room_49
+  - first:
+      213: -1533705741020766731
+    second: hospital_lecture_room_50
+  - first:
+      213: -762871049901165558
+    second: hospital_lecture_room_51
+  - first:
+      213: -2633642561477088620
+    second: hospital_lecture_room_52
+  - first:
+      213: 4551890753702046416
+    second: hospital_lecture_room_53
+  - first:
+      213: -1691528979079918094
+    second: hospital_lecture_room_54
+  - first:
+      213: -3080440114666514141
+    second: hospital_lecture_room_55
+  - first:
+      213: -2839374890095864623
+    second: hospital_lecture_room_56
+  - first:
+      213: 2111341937764733610
+    second: hospital_lecture_room_57
+  - first:
+      213: -171181529017856625
+    second: hospital_lecture_room_58
+  - first:
+      213: -8630701732828662947
+    second: hospital_lecture_room_59
+  - first:
+      213: 4326504738408176982
+    second: hospital_lecture_room_60
+  - first:
+      213: 4388138746410749521
+    second: hospital_lecture_room_61
+  - first:
+      213: -3138105171634913127
+    second: hospital_lecture_room_62
+  - first:
+      213: 6307399032632413776
+    second: hospital_lecture_room_63
+  - first:
+      213: 4229593221215058801
+    second: hospital_lecture_room_64
+  - first:
+      213: 1335539633007541670
+    second: hospital_lecture_room_65
+  - first:
+      213: -3186583276185248326
+    second: hospital_lecture_room_66
+  - first:
+      213: -1969814149196364043
+    second: hospital_lecture_room_67
+  - first:
+      213: 2173532796472520384
+    second: hospital_lecture_room_68
+  - first:
+      213: 7502718218792361983
+    second: hospital_lecture_room_69
+  - first:
+      213: 236643298826223089
+    second: hospital_lecture_room_70
+  - first:
+      213: 3358400729072230141
+    second: hospital_lecture_room_71
+  - first:
+      213: -711495554517742418
+    second: hospital_lecture_room_72
+  - first:
+      213: -4036731950164119709
+    second: hospital_lecture_room_73
+  - first:
+      213: -6569051237816495660
+    second: hospital_lecture_room_74
+  - first:
+      213: -7114267565420064660
+    second: hospital_lecture_room_75
+  - first:
+      213: 2220395331037213525
+    second: hospital_lecture_room_76
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hospital_lecture_room_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c121a714ee52ceb438ca20f4b23320d9
+      internalID: 3368206689519127005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a3deee83090294ab72f18a5760a7ac
+      internalID: 333489704207133146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af97e5d6f2880409785f3f999a2fe7
+      internalID: -5206368299431871004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc21f1e469f6f145bd71767b1d54d6a
+      internalID: -717189407158118892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a9fe12914d9749bd8bc2459c42971
+      internalID: 5938613464291482113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4abf7a0963f644ea31d0ce2849b7da
+      internalID: 3330397250271511940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f34a627615be24fb8199c2456f6a95
+      internalID: 7014015364055332556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf66e0900671524eaa1880939911c18
+      internalID: 3395633622498394872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635486b2482d4964b9d2235f92241278
+      internalID: 6639014942733559172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e69bb4b55b46418b759da2de09708
+      internalID: -2052419711550351524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a417db415c01e4eaa03590d2278882
+      internalID: 5475626308631355330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aace90a29e91454d85e21a3633e31b4
+      internalID: -6771580372054947778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640d6b32b04d2e14896139a2511cbaba
+      internalID: -4312074127204238544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6bb61315d24142bbc093588661198
+      internalID: -1717387665099776372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16daaa69e72f67344a909a00dfa02fa5
+      internalID: -4800912132779228768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cebbcc16ebfab46ba1ac8708feec96
+      internalID: 4482906082551747482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf67db930ced7c4ab23ed771607c961
+      internalID: 7807444661924963582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -35, y: -128}
+        - {x: -30, y: -118}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35b86e2d1be0640b1e6550fa0103fc
+      internalID: -4637424900409224251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4512680cdf532b419710b502c8112b0
+      internalID: 8292292134085358229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -35, y: -128}
+        - {x: -30, y: -118}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c683a14486800b4c84a06d4e081a219
+      internalID: 3217242579768076672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 29, y: -85}
+        - {x: 20, y: -106}
+        - {x: 8, y: -118}
+        - {x: -11, y: -126}
+        - {x: -11, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0.49
+      bones: []
+      spriteID: bedf1fbb28dab3b4dad2e8350a039bd7
+      internalID: 4014577936813031525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -62, y: -128}
+        - {x: -62, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce312803b9e964196ead4b7dca69f1
+      internalID: 7424992478197227598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e164edab1ef6b849beb8c2f57a7a668
+      internalID: 3049514642665080347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_23
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -62, y: -128}
+        - {x: -62, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad5af0776dfa254e8d144443c50c28b
+      internalID: -1312769109728920563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: 128}
+        - {x: 62, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073808ea2b2b68843b8b3a2cb8af622a
+      internalID: -8654082610104279457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09db8e575b9d074ba58c9bdb8b7685b
+      internalID: 4492844123616596517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -119, y: 128}
+        - {x: -128, y: 118}
+        - {x: -128, y: -128}
+        - {x: -30, y: -128}
+        - {x: -30, y: 116}
+        - {x: -40, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20047e11084174ba1b6d07d2e149d2
+      internalID: 2381157094520009003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_27
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -127}
+        - {x: -121, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057536a276bcb34a8f7d75c1b036e77
+      internalID: 8956920061849784591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: -8, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc488d4f61ce54d9e5486e84f01f9b
+      internalID: 5903580001224104230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: -128}
+        - {x: -65, y: -128}
+        - {x: -62, y: -127}
+        - {x: -62, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -124}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526265a0870ffb2459ed3104f9e230f1
+      internalID: -7910361933654442813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_30
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0154d05276ca45b895ba1dc0ed207
+      internalID: 490207635472760551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_31
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: -128}
+        - {x: -65, y: -128}
+        - {x: -62, y: -127}
+        - {x: -62, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -124}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f8530c8603dd429cae887d7e75073
+      internalID: -631590428540394198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_32
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: 128}
+        - {x: 62, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb95a957462ea74e9e1fbd6c2b6dd2f
+      internalID: -3296964304327345808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 11, y: -128}
+        - {x: 10, y: -125}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be545c806a8cca4fa443ce4067bd035
+      internalID: -3756873200624480789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 85, y: -125}
+        - {x: 85, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -85}
+        - {x: 125, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da390c9eda0e004f9404cb963614f79
+      internalID: -2372556613072467152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07c3aadeaf7734a9c336324a6db630
+      internalID: -3400450675930270854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: 30, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a93792246e4b284d80e678b5f37fc5d
+      internalID: 4064924386708547093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_37
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -62, y: -128}
+        - {x: -62, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9684d85ef1ab54fb81175f8d771bf8
+      internalID: 1035643993577757923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: 128}
+        - {x: 62, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c33ea27e1edc6241b0035ef31d34676
+      internalID: -2552901981573299890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 10, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45bf342aa43bc64ea03cdfe052f7f15
+      internalID: -7783119129071747148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707684b504f66284ca0d8b4a9ef40b8d
+      internalID: 6269165898259138619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf092e05e48400c44baff123128993e4
+      internalID: 9126988476571062399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f6ce033c142f4fafc1275d2c3c872
+      internalID: 7297832757370369145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_43
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: -11, y: -119}
+        - {x: -11, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29dffecb8cf7b944939a65f3df0c515
+      internalID: -582433142565108078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_44
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b65c4db4629e498a3440608a65a19
+      internalID: 4082315107043068592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 5}
+        - {x: -128, y: -128}
+        - {x: -21, y: -128}
+        - {x: -62, y: 5}
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: f8e6b83e4ff6aa84eb449c5b1d194d01
+      internalID: -5270640119044825328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 85, y: -125}
+        - {x: 85, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -85}
+        - {x: 125, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd7f7bbb798af4aa68937b7697d82a
+      internalID: -4561881530717287353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_47
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -62, y: -128}
+        - {x: -62, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea2f901c0f25a458b2894948540eab
+      internalID: 993405294404686282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_48
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: 128}
+        - {x: 62, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295a2d723f731a4e9ba44d55a9931b3
+      internalID: 7799388311225555741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -128}
+        - {x: -30, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3fbe0e8f94214a9498b45e60721c4
+      internalID: 5830867014004944347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -35, y: -128}
+        - {x: -30, y: -118}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe254f31e6aad8a4c877f8c9af7e4c36
+      internalID: -1533705741020766731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 92, y: -76}
+        - {x: 30, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb860c53357aa7d4986d806caf1532e5
+      internalID: -762871049901165558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e8ddc699d219438a6e756f12336fc
+      internalID: -2633642561477088620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46521ae7037a22545bdc0deb292b516d
+      internalID: 4551890753702046416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_54
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b07df86ad95ef74b9bdbdee9fe0634a
+      internalID: -1691528979079918094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_55
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: -9, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d449c2216932243be93f6dc1024e0b
+      internalID: -3080440114666514141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_56
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f14f8713caf1d4585ce011bf81c64c
+      internalID: -2839374890095864623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_57
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -28, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a4ef4afa78ef42b084247e813b9cb
+      internalID: 2111341937764733610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_58
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0.58
+      bones: []
+      spriteID: ed21c4520910e5146b2cd26228574280
+      internalID: -171181529017856625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_59
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af66e807dbb6eec4ca8681f8846d25e4
+      internalID: -8630701732828662947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_60
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -62, y: -128}
+        - {x: -62, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9acd40fa55edb44853be844c27b3e5
+      internalID: 4326504738408176982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_61
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: 128}
+        - {x: 62, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede84c39e8b1aa14f87bb2969d3bd03b
+      internalID: 4388138746410749521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 11, y: -128}
+        - {x: 10, y: -125}
+        - {x: -30, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56be60bfa99b14d9e0630ea6af26e2
+      internalID: -3138105171634913127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 85, y: -125}
+        - {x: 85, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -85}
+        - {x: 125, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1dc014e0120747b70bb941372e6cb
+      internalID: 6307399032632413776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 11, y: -128}
+        - {x: 10, y: -125}
+        - {x: -30, y: 121}
+        - {x: -35, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e2be22a3c3cb408d6fa29cab85d1f
+      internalID: 4229593221215058801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 128}
+        - {x: -11, y: -119}
+        - {x: -11, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c046f2fa38ea94bbcc10de9c73e95c
+      internalID: 1335539633007541670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_66
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -21, y: -128}
+        - {x: -22, y: -125}
+        - {x: -62, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b5f08e7dfb9f43bade756efd58854
+      internalID: -3186583276185248326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_67
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: 128}
+        - {x: 21, y: -119}
+        - {x: 21, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bcd726675ecc848a1f0b7fab38ccde
+      internalID: -1969814149196364043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 7, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691a9ce345baaa45a142bb21f49ff9b
+      internalID: 2173532796472520384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf063e71126444fb3ed94cfd9facee
+      internalID: 7502718218792361983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5e105a9f6b6f941aebbb94901b8a47
+      internalID: 236643298826223089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_71
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663fad73645e57498ef0785066fe934
+      internalID: 3358400729072230141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4501dc290271c24e919fcc0607398a3
+      internalID: -711495554517742418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_73
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76a95f964dfd34d8dbc0e206b6b8cc
+      internalID: -4036731950164119709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_74
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -22, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc3b57c8846f3408bd33f75a1d871a
+      internalID: -6569051237816495660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_75
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3565eb0f0a704498d8310ef3afab6e
+      internalID: -7114267565420064660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospital_lecture_room_76
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 16, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876baeb1f79188244a42ab328cbbf102
+      internalID: 2220395331037213525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -128, y: -128}
+      - {x: -128, y: -58}
+      - {x: 128, y: -58}
+      - {x: 128, y: -128}
+    bones: []
+    spriteID: 575c6e5d04dee084ba67adab04cae676
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Tiles
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

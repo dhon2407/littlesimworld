@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 624b4084433d13d4799bfe6afd6808ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BlueChair_0
+  - first:
+      213: 21300002
+    second: BlueChair_1
+  - first:
+      213: 21300004
+    second: BlueChair_2
+  - first:
+      213: 21300006
+    second: BlueChair_3
+  - first:
+      213: 21300008
+    second: Player house 2_0
+  - first:
+      213: 21300010
+    second: Player house 2_1
+  - first:
+      213: 21300012
+    second: Player house 2_2
+  - first:
+      213: 21300014
+    second: Player house 2_3
+  - first:
+      213: 21300016
+    second: Player house 2_5
+  - first:
+      213: 21300018
+    second: Player house 2_6
+  - first:
+      213: 21300020
+    second: Player house 2_7
+  - first:
+      213: 21300022
+    second: Player house 2_9
+  - first:
+      213: 21300024
+    second: Player house 2_10
+  - first:
+      213: 21300026
+    second: Player house 2_11
+  - first:
+      213: 21300028
+    second: Player house 2_13
+  - first:
+      213: 21300030
+    second: Player house 2_14
+  - first:
+      213: 21300032
+    second: Player house 2_15
+  - first:
+      213: 21300034
+    second: Player house 2_16
+  - first:
+      213: 21300036
+    second: Player house 1_0
+  - first:
+      213: 21300038
+    second: Player house 1_1
+  - first:
+      213: 21300040
+    second: Player house 1_2
+  - first:
+      213: 21300042
+    second: Player house 1_3
+  - first:
+      213: 21300044
+    second: Player house 1_4
+  - first:
+      213: 21300046
+    second: Player house 1_5
+  - first:
+      213: 21300048
+    second: Player house 1_6
+  - first:
+      213: 21300050
+    second: Player house 1_7
+  - first:
+      213: 21300052
+    second: Player house 1_8
+  - first:
+      213: 21300054
+    second: Player house 1_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 850
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player house 1_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3196
+        width: 751
+        height: 1456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a07308863ac1429ffd61be6345bde
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_1
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 3196
+        width: 751
+        height: 1321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3141b925bdb2478e9a39fc7392386
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_2
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 3304
+        width: 1314
+        height: 1069
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82be6ddfc5ebd44a0386064b23f574
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1720
+        width: 773
+        height: 1447
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e99a33f28984a498d5c4480f2747b9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_4
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1720
+        width: 773
+        height: 1456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f49bed89e22e4c845c1e3e380b281
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_5
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2224
+        width: 1314
+        height: 1069
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b97ee65239af64aa26b637d7e326c9
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 74
+        width: 737
+        height: 1622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923d329e2bf2b64296153cc9b73d7c9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 65
+        width: 737
+        height: 1347
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c772fd94b5bd44ab6fc796616e2acf
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_8
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1144
+        width: 1177
+        height: 1060
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed39986e92f4ba94baec454e136408d2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player house 1_9
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 64
+        width: 1179
+        height: 1060
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d43e949cf90ed4f9d6e39ce212e83a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8046cd2b8a5bebc47ad6455006afc60d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Objects
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 5e92fa2df487dfb4a934a70e2b4bb886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1301638322453936830
+    second: charles_pear_bank_library_0
+  - first:
+      213: -1039914710494808200
+    second: charles_pear_bank_library_1
+  - first:
+      213: -7219645474670049371
+    second: charles_pear_bank_library_2
+  - first:
+      213: 4891768468428089406
+    second: charles_pear_bank_library_3
+  - first:
+      213: 5191642982162006014
+    second: charles_pear_bank_library_4
+  - first:
+      213: -1385477616660429427
+    second: charles_pear_bank_library_5
+  - first:
+      213: 5626690225577834396
+    second: charles_pear_bank_library_6
+  - first:
+      213: 148733496419401901
+    second: charles_pear_bank_library_7
+  - first:
+      213: 8950235039402216888
+    second: charles_pear_bank_library_8
+  - first:
+      213: 9168074624482893923
+    second: charles_pear_bank_library_9
+  - first:
+      213: -4342739135289845771
+    second: charles_pear_bank_library_10
+  - first:
+      213: 2874197038772129701
+    second: charles_pear_bank_library_11
+  - first:
+      213: 5709923198338325155
+    second: charles_pear_bank_library_12
+  - first:
+      213: -3877987856822912409
+    second: charles_pear_bank_library_13
+  - first:
+      213: 3037946575038425988
+    second: charles_pear_bank_library_14
+  - first:
+      213: 610923218119116203
+    second: charles_pear_bank_library_15
+  - first:
+      213: -8292140990123522713
+    second: charles_pear_bank_library_16
+  - first:
+      213: -1978820695513658295
+    second: charles_pear_bank_library_17
+  - first:
+      213: -4454502635455644197
+    second: charles_pear_bank_library_18
+  - first:
+      213: 4408991793747152569
+    second: charles_pear_bank_library_19
+  - first:
+      213: 642139450637068678
+    second: charles_pear_bank_library_20
+  - first:
+      213: -1086160336239950298
+    second: charles_pear_bank_library_21
+  - first:
+      213: 8972280662096797229
+    second: charles_pear_bank_library_22
+  - first:
+      213: 8071845990037981062
+    second: charles_pear_bank_library_23
+  - first:
+      213: -1946991592939948177
+    second: charles_pear_bank_library_24
+  - first:
+      213: -3191653409935728207
+    second: charles_pear_bank_library_25
+  - first:
+      213: 6281086906671628566
+    second: charles_pear_bank_library_26
+  - first:
+      213: -3382374996183619488
+    second: charles_pear_bank_library_27
+  - first:
+      213: 1346652971369259853
+    second: charles_pear_bank_library_28
+  - first:
+      213: 433525019865376095
+    second: charles_pear_bank_library_29
+  - first:
+      213: -299008563420552776
+    second: charles_pear_bank_library_30
+  - first:
+      213: 7459721721137755324
+    second: charles_pear_bank_library_31
+  - first:
+      213: -1844263125031412471
+    second: charles_pear_bank_library_32
+  - first:
+      213: -4050114573681447033
+    second: charles_pear_bank_library_33
+  - first:
+      213: 2050518233130999618
+    second: charles_pear_bank_library_34
+  - first:
+      213: 6324634427286668883
+    second: charles_pear_bank_library_35
+  - first:
+      213: 6072488848364147685
+    second: charles_pear_bank_library_36
+  - first:
+      213: -7239277825045839879
+    second: charles_pear_bank_library_37
+  - first:
+      213: -1481508449422022803
+    second: charles_pear_bank_library_38
+  - first:
+      213: 4252750170748995841
+    second: charles_pear_bank_library_39
+  - first:
+      213: 3349458114922897147
+    second: charles_pear_bank_library_40
+  - first:
+      213: 999070992937455744
+    second: charles_pear_bank_library_41
+  - first:
+      213: -5152614741378462801
+    second: charles_pear_bank_library_42
+  - first:
+      213: -8342503005570760661
+    second: charles_pear_bank_library_43
+  - first:
+      213: 8140793006691310538
+    second: charles_pear_bank_library_44
+  - first:
+      213: 6983809349346126569
+    second: charles_pear_bank_library_45
+  - first:
+      213: -4013184298121015391
+    second: charles_pear_bank_library_46
+  - first:
+      213: -6415628434893261042
+    second: charles_pear_bank_library_47
+  - first:
+      213: 2922218281007950532
+    second: charles_pear_bank_library_48
+  - first:
+      213: -6760151923162794952
+    second: charles_pear_bank_library_49
+  - first:
+      213: -1227971103154890493
+    second: charles_pear_bank_library_50
+  - first:
+      213: 117712240582153834
+    second: charles_pear_bank_library_51
+  - first:
+      213: 2946736977661642521
+    second: charles_pear_bank_library_52
+  - first:
+      213: -7825269656086590997
+    second: charles_pear_bank_library_53
+  - first:
+      213: -7090428519268880942
+    second: charles_pear_bank_library_54
+  - first:
+      213: -2993506152466080040
+    second: charles_pear_bank_library_55
+  - first:
+      213: -780639664496249446
+    second: charles_pear_bank_library_56
+  - first:
+      213: -2476723747240089036
+    second: charles_pear_bank_library_57
+  - first:
+      213: 8854076910159434423
+    second: charles_pear_bank_library_58
+  - first:
+      213: -3118188745365121774
+    second: charles_pear_bank_library_59
+  - first:
+      213: 8238577182427453654
+    second: charles_pear_bank_library_60
+  - first:
+      213: 495248075819690950
+    second: charles_pear_bank_library_61
+  - first:
+      213: -664326953133289437
+    second: charles_pear_bank_library_62
+  - first:
+      213: 2226874669786613721
+    second: charles_pear_bank_library_63
+  - first:
+      213: -6935267112837943341
+    second: charles_pear_bank_library_64
+  - first:
+      213: -3212683303595015776
+    second: charles_pear_bank_library_65
+  - first:
+      213: -5978521670719501420
+    second: charles_pear_bank_library_66
+  - first:
+      213: 8815946054006095884
+    second: charles_pear_bank_library_67
+  - first:
+      213: 175692839682409783
+    second: charles_pear_bank_library_68
+  - first:
+      213: -3510397720926127588
+    second: charles_pear_bank_library_69
+  - first:
+      213: 5810665266482972494
+    second: charles_pear_bank_library_70
+  - first:
+      213: 2344951006788876266
+    second: charles_pear_bank_library_71
+  - first:
+      213: -6163517598703100408
+    second: charles_pear_bank_library_72
+  - first:
+      213: 7867597581099019142
+    second: charles_pear_bank_library_73
+  - first:
+      213: 6506611354270216312
+    second: charles_pear_bank_library_74
+  - first:
+      213: -8476553765838689703
+    second: charles_pear_bank_library_75
+  - first:
+      213: -8852744314780915405
+    second: charles_pear_bank_library_76
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charles_pear_bank_library_0
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a32162ca167424b8c8207c7e590d4e
+      internalID: -1301638322453936830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_1
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c6d150538490e45b3a316428496e59
+      internalID: -1039914710494808200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_2
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6991024c4fd6b4cb01aaa1435e1d90
+      internalID: -7219645474670049371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_3
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c21e0ab0a7bc44590c03534b3d7480
+      internalID: 4891768468428089406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82d93a776e0a224bbcbd0a8cc90e784
+      internalID: 5191642982162006014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_5
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937cda42da18a9e49b919443234ea4bc
+      internalID: -1385477616660429427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_6
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c663c002d1747458921dcce80016c4
+      internalID: 5626690225577834396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_7
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773510ac6785f0e44bb69e0587711c11
+      internalID: 148733496419401901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c46ba45c1f4143a22bc034b8f163b
+      internalID: 8950235039402216888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e03dd27695e341b459a12602e8fbf
+      internalID: 9168074624482893923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -58}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e73ea50924159b4498417db525d098a
+      internalID: -4342739135289845771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0786e14289b712c4a81b842c702cd82a
+      internalID: 2874197038772129701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c67fa320099a144a3502a12ef67f67
+      internalID: 5709923198338325155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1061199209dfe44944eadb4f5eb888
+      internalID: -3877987856822912409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60f34e8f635b84ebedc6ca93e194e2
+      internalID: 3037946575038425988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a4a64f1e63c8e4ea8ba6818861b617
+      internalID: 610923218119116203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb077c5732c134597037b3c97201a2
+      internalID: -8292140990123522713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d97996d8cf4054194ef379f207e4f4
+      internalID: -1978820695513658295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b736c0bc4627a4ca89d533aa381a04
+      internalID: -4454502635455644197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00724608a5bc0d44abe4f9dbf7baec79
+      internalID: 4408991793747152569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_20
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -66, y: -128}
+        - {x: -66, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a331ddd477e1bb4e8ed6a5095ad590d
+      internalID: 642139450637068678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_21
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 66, y: 128}
+        - {x: 66, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ebc28b2c366746b845d1ae105291f
+      internalID: -1086160336239950298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_22
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -42, y: -88}
+        - {x: -42, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -1, y: -128}
+        - {x: -2, y: -125}
+        - {x: -26, y: -115}
+        - {x: -41, y: -88}
+      tessellationDetail: 0.49
+      bones: []
+      spriteID: a3c46686db2c7b841b6105ce13003334
+      internalID: 8972280662096797229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_23
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 42, y: 128}
+        - {x: 42, y: -88}
+        - {x: 41, y: -89}
+        - {x: 36, y: -103}
+        - {x: 25, y: -115}
+        - {x: 14, y: -122}
+        - {x: 3, y: -125}
+        - {x: 1, y: -127}
+        - {x: 1, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0.53
+      bones: []
+      spriteID: 292bdf2c947636541bb88f8c76d0e766
+      internalID: 8071845990037981062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: -128}
+        - {x: -46, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71cd63e0f2d7c4bb2afb0d549f3cf9
+      internalID: -1946991592939948177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1473c5c7260c34198895070d57e1e6
+      internalID: -3191653409935728207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 46, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdab1d86cc9ce4e99234e461e5096f
+      internalID: 6281086906671628566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74, y: -128}
+        - {x: -74, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c2932cd2205a489c6782e2d94bc55
+      internalID: -3382374996183619488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41257e79fca6e4e42a28a617c9bf19e1
+      internalID: 1346652971369259853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_29
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 74, y: 128}
+        - {x: 74, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1915275f3dd3a4f94279422fc2faf7
+      internalID: 433525019865376095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_30
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -66, y: -128}
+        - {x: -66, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5fc9a6469c39f4fa13cc756bc75b18
+      internalID: -299008563420552776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 66, y: 128}
+        - {x: 66, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4279f6209fbb44385245b69838f989
+      internalID: 7459721721137755324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -6, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d8c664778dad44a8a400949c3a01e7
+      internalID: -1844263125031412471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_33
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf1ac656d739d48acbbc95ca41b6e2
+      internalID: -4050114573681447033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_34
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4fc75c50515d468a0f44e0e745157
+      internalID: 2050518233130999618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_35
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d9efab0cdfa546ae0c17b5af973a1
+      internalID: 6324634427286668883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_36
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 769
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 10, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c5c06f5adb414ba8ae1eb7ac9b841
+      internalID: 6072488848364147685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -5, y: -128}
+        - {x: -6, y: -125}
+        - {x: -46, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96570324775e842b761805acc89211
+      internalID: -7239277825045839879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: 128}
+        - {x: 5, y: -119}
+        - {x: 5, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15f338df7fcd640b227fcb07669291
+      internalID: -1481508449422022803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -33, y: -128}
+        - {x: -34, y: -125}
+        - {x: -74, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7658a9635f5314c99ba6cb33675af5
+      internalID: 4252750170748995841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_40
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 74, y: 128}
+        - {x: 33, y: -119}
+        - {x: 33, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3094efdf422bc419078ae148b101ca
+      internalID: 3349458114922897147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_41
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -66, y: -128}
+        - {x: -66, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0e0d0484c2a8499c90532b79b5d16
+      internalID: 999070992937455744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_42
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ddc7da62ba98e4eb8a7b663e88cdc2
+      internalID: -5152614741378462801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_43
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 66, y: 128}
+        - {x: 66, y: -124}
+        - {x: 69, y: -128}
+        - {x: 127, y: -128}
+        - {x: 128, y: -127}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e08bc2700c6244ab1c85078c52fb76
+      internalID: -8342503005570760661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_44
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532d1122a046f14d91984b366153f3c
+      internalID: 8140793006691310538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_45
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -42, y: -128}
+        - {x: -42, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4cf67ae661bb4ea3ad618b905a659
+      internalID: 6983809349346126569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_46
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdddaa9b3c7804ab51f396851a33e8
+      internalID: -4013184298121015391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_47
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d279cfdc9fc4f42b56ce322aebf791
+      internalID: -6415628434893261042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_48
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 513
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 42, y: 128}
+        - {x: 42, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae891eb643cef84da803b44b5a151a2
+      internalID: 2922218281007950532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -6, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf906fd898b8cbf478f21ea73f607e83
+      internalID: -6760151923162794952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb726996f79925469e66bd15ca0f7cc
+      internalID: -1227971103154890493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ca11c20577af4e889a74ecda2663d
+      internalID: 117712240582153834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd4429f96031c24eaed8cfa897c10f3
+      internalID: 2946736977661642521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: -5, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8c3e9e9f4c474ba3a06d370088741
+      internalID: -7825269656086590997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6197dbbdc3d99f2458548bdeab3a09c4
+      internalID: -7090428519268880942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -32, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49f4c21fec39443a727831b88a9ed4
+      internalID: -2993506152466080040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468a122b8fecd14e989305e661b25ed
+      internalID: -780639664496249446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_57
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b32a38f69607449b5f4965a0f7420
+      internalID: -2476723747240089036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_58
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 31, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e666b4a2b68d6e4aaae203eae1ff07e
+      internalID: 8854076910159434423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ac213e4b8e2a42bf60e81a16067ef
+      internalID: -3118188745365121774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_60
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -25, y: -128}
+        - {x: -26, y: -125}
+        - {x: -66, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933088cfd2b8295408f275a5d17ce246
+      internalID: 8238577182427453654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_61
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617569018a9bf754f988ba2ffe521dc5
+      internalID: 495248075819690950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_62
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49adacfc6fd212a46ab84b5158c02bf1
+      internalID: -664326953133289437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_63
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60, y: 128}
+        - {x: 51, y: 127}
+        - {x: 25, y: -113}
+        - {x: 25, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfaa25b35fea9340a327fdbedc1b159
+      internalID: 2226874669786613721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_64
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -1, y: -128}
+        - {x: -2, y: -125}
+        - {x: -41, y: -88}
+        - {x: -42, y: 128}
+      tessellationDetail: 0.35
+      bones: []
+      spriteID: 883700feb4b795c4ab02cc5fc66dc443
+      internalID: -6935267112837943341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_65
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 257
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 42, y: 128}
+        - {x: 42, y: -88}
+        - {x: 41, y: -89}
+        - {x: 36, y: -103}
+        - {x: 25, y: -115}
+        - {x: 1, y: -126}
+        - {x: 1, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0.44
+      bones: []
+      spriteID: 5c453dfba7d939d44be9d0a2a3c2e91c
+      internalID: -3212683303595015776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_66
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a8bcdb5f15644bab0158b4b88249a
+      internalID: -5978521670719501420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_67
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -18, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748044c6d807954478a4f978aaacef05
+      internalID: 8815946054006095884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_68
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b203513702645a428cb253708304fd5
+      internalID: 175692839682409783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_69
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c1945353504a4b818058f05fc5d19
+      internalID: -3510397720926127588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_70
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 23, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5fc8c31ea562340b17ceee05cf78db
+      internalID: 5810665266482972494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_71
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9734cbf9bf5c6545ae37af12681bfee
+      internalID: 2344951006788876266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_72
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: -3, y: 128}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b083cd5222895948b375e6834416d89
+      internalID: -6163517598703100408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_73
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956537d976965f045865d89439c58d49
+      internalID: 7867597581099019142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_74
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b655e93396154689a628f741f06b9
+      internalID: 6506611354270216312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_75
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 128, y: -58}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72376aa2c9ec8f4b89d450e465b5d65
+      internalID: -8476553765838689703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_pear_bank_library_76
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -128}
+        - {x: -128, y: -58}
+        - {x: 2, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768fa7d65bd58742b1533e087b18ba7
+      internalID: -8852744314780915405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -128, y: -128}
+      - {x: -128, y: -58}
+      - {x: 128, y: -58}
+      - {x: 128, y: -128}
+    bones: []
+    spriteID: 575c6e5d04dee084ba67adab04cae676
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Tiles
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

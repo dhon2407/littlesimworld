@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 9b88753fb45b0f743903d16c7364363d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -739333458708068128
+    second: furniture_shop_walls_and_floors_0
+  - first:
+      213: 1142520632571692179
+    second: furniture_shop_walls_and_floors_1
+  - first:
+      213: -6814213155051832352
+    second: furniture_shop_walls_and_floors_2
+  - first:
+      213: 828538631394468230
+    second: furniture_shop_walls_and_floors_3
+  - first:
+      213: -1281639359929601841
+    second: furniture_shop_walls_and_floors_4
+  - first:
+      213: -2711532816445378863
+    second: furniture_shop_walls_and_floors_5
+  - first:
+      213: 18275674673640527
+    second: furniture_shop_walls_and_floors_6
+  - first:
+      213: 7523876514175634439
+    second: furniture_shop_walls_and_floors_7
+  - first:
+      213: 9074107622613267769
+    second: furniture_shop_walls_and_floors_8
+  - first:
+      213: 2661118700335118814
+    second: furniture_shop_walls_and_floors_9
+  - first:
+      213: 5195068779399384925
+    second: furniture_shop_walls_and_floors_10
+  - first:
+      213: 467857117506143954
+    second: furniture_shop_walls_and_floors_11
+  - first:
+      213: -2253504163642423823
+    second: furniture_shop_walls_and_floors_12
+  - first:
+      213: 2578820577083813026
+    second: furniture_shop_walls_and_floors_13
+  - first:
+      213: -624678955710671017
+    second: furniture_shop_walls_and_floors_14
+  - first:
+      213: -1597634374555023854
+    second: furniture_shop_walls_and_floors_15
+  - first:
+      213: -943087346288142755
+    second: furniture_shop_walls_and_floors_16
+  - first:
+      213: 8237860629133668012
+    second: furniture_shop_walls_and_floors_17
+  - first:
+      213: 1204381432024700912
+    second: furniture_shop_walls_and_floors_18
+  - first:
+      213: 7833359240307887039
+    second: furniture_shop_walls_and_floors_19
+  - first:
+      213: -3869238838764339404
+    second: furniture_shop_walls_and_floors_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -112}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -112}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f89701bc2867d4693df0e9d8843bd8
+      internalID: -739333458708068128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -112}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -112}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34120d717c9248f4ca4f11586a72fde2
+      internalID: 1142520632571692179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e551a700772f5468ad345561ed257e
+      internalID: -6814213155051832352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 864
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 128, y: -112}
+        - {x: -128, y: -112}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe01be3bb137324597422e70571975f
+      internalID: 828538631394468230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e582ef14ee0c854db5b825d1cca10af
+      internalID: -1281639359929601841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3684a51a95c76944a13b90d2aa9eaf9
+      internalID: -2711532816445378863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e74d19c36f1a542938b8c4f20841f1
+      internalID: 18275674673640527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 576
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52b1459a5c9fd428abcae6b81ed1c9
+      internalID: 7523876514175634439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff10c6a44e31fa41b28467706e223b7
+      internalID: 9074107622613267769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 576
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf291381eaa7fd40b290e2f0226a605
+      internalID: 2661118700335118814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e0e4cc9cc53d742a3e47790dc0e2ab
+      internalID: 5195068779399384925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc3ea388b32bc4bb15c466cb77c364
+      internalID: 467857117506143954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86e3d506093e141be3233039b73e31
+      internalID: -2253504163642423823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 288
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f02fff22460044faa260994f243c65
+      internalID: 2578820577083813026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 288
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019e07fef63282419d73e1c4443cc37
+      internalID: -624678955710671017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 288
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a7c4aa80409d4da22a457b0c4b15b
+      internalID: -1597634374555023854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -87}
+        - {x: -118, y: -116}
+        - {x: -83, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -104}
+        - {x: -35, y: -104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc23b7ccd19f54cbe37b7ce2507e88
+      internalID: -943087346288142755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -104}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ef399ed632334ca15bf8e6e60b855
+      internalID: 8237860629133668012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -104}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702fe3c59b6f9c44915a30c32f8f8ba
+      internalID: 1204381432024700912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128, y: -104}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f516a69f1d558e64c94de9b0e2becaa8
+      internalID: 7833359240307887039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_shop_walls_and_floors_20
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 33, y: -104}
+        - {x: -128, y: -104}
+        - {x: -128, y: -128}
+        - {x: 87, y: -128}
+        - {x: 112, y: -117}
+        - {x: 128, y: -90}
+        - {x: 128, y: 128}
+        - {x: 32, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241fb5f902aa5444ae2ebcb93c9c50e
+      internalID: -3869238838764339404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 575c6e5d04dee084ba67adab04cae676
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Tiles
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

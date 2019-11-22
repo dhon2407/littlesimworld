@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3333961452276349639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4381566805609838562}
+  - component: {fileID: 5521758841871994154}
+  - component: {fileID: 6390937239542632654}
+  - component: {fileID: 4484760369903074506}
+  - component: {fileID: 7432451567731009145}
+  - component: {fileID: 3545020569918183055}
+  m_Layer: 10
+  m_Name: Cooked Egg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4381566805609838562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333961452276349639}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.4575061, y: 0.4575061, z: 0.4575061}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &5521758841871994154
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333961452276349639}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 9a1e3aee40fdd264b96d9a7933d40975, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 6
+  m_Sprite: {fileID: 21300034, guid: 02375688e6446cd47b06b22d0f8bc48f, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.7285715, y: 0.5729881}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 1
+--- !u!60 &6390937239542632654
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333961452276349639}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 0.7285715, y: 0.5729881}
+    newSize: {x: 0.7285715, y: 0.5729881}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.23526616, y: 0.061869547}
+      - {x: 0.26766753, y: 0.08455051}
+      - {x: 0.32599002, y: 0.14611313}
+      - {x: 0.348671, y: 0.17851451}
+      - {x: 0.36811182, y: 0.24331726}
+      - {x: 0.36811182, y: 0.31784043}
+      - {x: 0.36487168, y: 0.35348195}
+      - {x: 0.33895057, y: 0.41504458}
+      - {x: 0.31302947, y: 0.44744596}
+      - {x: 0.26118726, y: 0.496048}
+      - {x: 0.22878589, y: 0.518729}
+      - {x: 0.15750286, y: 0.55113035}
+      - {x: 0.12510148, y: 0.5608508}
+      - {x: 0.07001913, y: 0.5738113}
+      - {x: -0.06930679, y: 0.5738113}
+      - {x: -0.124389134, y: 0.5608508}
+      - {x: -0.17947148, y: 0.54140997}
+      - {x: -0.22159328, y: 0.52196914}
+      - {x: -0.26047492, y: 0.49928814}
+      - {x: -0.32203755, y: 0.43772554}
+      - {x: -0.3511988, y: 0.38912347}
+      - {x: -0.36415935, y: 0.33728126}
+      - {x: -0.36415935, y: 0.23683698}
+      - {x: -0.3511988, y: 0.18823493}
+      - {x: -0.33175796, y: 0.1525934}
+      - {x: -0.27343547, y: 0.091030784}
+      - {x: -0.21187286, y: 0.048908994}
+      - {x: -0.17623134, y: 0.029468168}
+      - {x: -0.101708174, y: 0.010027341}
+      - {x: -0.043385692, y: 0.0003069271}
+      - {x: 0.037617754, y: 0.0003069271}
+      - {x: 0.086219825, y: 0.006787203}
+      - {x: 0.15102258, y: 0.022987891}
+      - {x: 0.18342395, y: 0.035948444}
+--- !u!114 &4484760369903074506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333961452276349639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9872edc4a29a15f41b1f86c026ddf224, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quantity: 1
+  iconPath: 
+  itemSO: {fileID: 11400000, guid: 238bc055a20cf1b46b4c05b2aaa256f9, type: 2}
+--- !u!50 &7432451567731009145
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333961452276349639}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 1
+  m_Mass: 0.072079934
+  m_LinearDrag: 5
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4
+--- !u!114 &3545020569918183055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3333961452276349639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OutlineGO: {fileID: 0}
+  outlineThickness: 0.2
+  OutlineColor: {r: 0.05789665, g: 1, b: 0.042452812, a: 0.23529412}
+  OutlineMaterial: {fileID: 2100000, guid: afc7c2ae304b53e4fb7e204c5479ed16, type: 2}
+  OutlinePrefab: {fileID: 1731291263807503400, guid: 81826a2594212d34880a913de03e4e31,
+    type: 3}
