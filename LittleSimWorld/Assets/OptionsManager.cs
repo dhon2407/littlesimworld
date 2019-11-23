@@ -23,7 +23,6 @@ public class OptionsManager : MonoBehaviour
 
     // public bool IsFullscreen = true;
 
-    private List<Resolution> resolutions = new List<Resolution>();
     private List<FullScreenMode> DisplayModes = new List<FullScreenMode>();
     private void Awake()
     {
@@ -126,12 +125,6 @@ public class OptionsManager : MonoBehaviour
             }
 
         }
-        resolutions.Clear();
-        foreach (Resolution res in Screen.resolutions)
-        {
-            resolutions.Add(res);
-        }
-        resolutions.Reverse();
         foreach (AudioSource source in FindObjectsOfType<AudioSource>())
         {
             if (source)
@@ -203,16 +196,6 @@ public class OptionsManager : MonoBehaviour
                     dropdown.options.Add(new TMP_Dropdown.OptionData(mode.ToString()));
                 }
             }
-            if (dropdown.gameObject.name == "Resolution")
-            {
-                dropdown.ClearOptions();
-                foreach (Resolution res in resolutions)
-                {
-                    dropdown.options.Add(new TMP_Dropdown.OptionData(res.ToString()));
-                }
-                dropdown.RefreshShownValue();
-                Screen.SetResolution(resolutions[PlayerPrefs.GetInt("Resolution", 0)].width, resolutions[PlayerPrefs.GetInt("Resolution", 0)].height, DisplayModes[PlayerPrefs.GetInt("Display Mode", 0)]);
-            }
             
             LoadDropdown(dropdown);
 
@@ -244,49 +227,13 @@ public class OptionsManager : MonoBehaviour
                 toggle.onValueChanged.AddListener(delegate { UpdateAllSoundsAndToggles(); });
             }
           
-            if (toggle.gameObject.name == "Custom")
-            {
 
-                toggle.onValueChanged.AddListener(delegate { AllowCustomResolutions(toggle); });
-                if (System.Convert.ToBoolean(PlayerPrefs.GetInt("Detect Resolution")))
-                {
-
-                    // toggle.isOn = false;
-                }
-                else
-                {
-                    AllowCustomResolutions(toggle);
-
-                }
-
-            }
             if (toggle.gameObject.name == "VSync Toggle")
             {
                 toggle.onValueChanged.AddListener(delegate { SwitchVSync(toggle); });
                 SwitchVSync(toggle);
             }
             LoadToggle(toggle);
-            if (toggle.gameObject.name == "Detect Resolution")
-            {
-               
-                if(!PlayerPrefs.HasKey("Detect Resolution"))
-                {
-                    PlayerPrefs.SetInt("Detect Resolution", 1);
-                    Debug.Log("Detect res was not set, setting it to 1");
-                }
-                toggle.onValueChanged.AddListener(delegate { DetectAndSetResolution(toggle); });
-               
-                if (System.Convert.ToBoolean(PlayerPrefs.GetInt("Detect Resolution")))
-                {
-                    DetectAndSetResolution(toggle);
-                    //toggle.isOn = true;
-                }
-                else
-                {
-                    //toggle.isOn = false;
-                }
-               
-            }
             foreach (TMP_InputField Text in FindObjectsOfType<TMP_InputField>())
             {
 
@@ -310,23 +257,6 @@ public class OptionsManager : MonoBehaviour
         Debug.Log("OnLevelWasLoaded");
     }
   
-    public void DetectAndSetResolution(Toggle toggle)
-    {
-        PlayerPrefs.SetInt("Detect Resolution", System.Convert.ToInt32(toggle.isOn));
-        Screen.SetResolution(resolutions[0].width, resolutions[0].height, DisplayModes[PlayerPrefs.GetInt("Display Mode", 0)]);
-
-            Debug.Log("Detect resolution is " + toggle.isOn + ". Current resoluton is " + resolutions[0]);
-       
-    }
-    public void AllowCustomResolutions(Toggle toggle)
-    {
-        
-
-            PlayerPrefs.SetInt("Detect Resolution", System.Convert.ToInt32(!toggle.isOn));
-        Screen.SetResolution(resolutions[PlayerPrefs.GetInt("Resolution", 0)].width, resolutions[PlayerPrefs.GetInt("Resolution", 0)].height, DisplayModes[PlayerPrefs.GetInt("Display Mode", 0)]);
-        Debug.Log("Detect resolution is " + !toggle.isOn);
-      
-    }
     public void SwitchVSync(Toggle toggle)
     {
 
@@ -400,41 +330,7 @@ public class OptionsManager : MonoBehaviour
         //SwitchMusicVolumeToggle();
         PlayerPrefs.SetInt(toggle.gameObject.name, System.Convert.ToInt32(toggle.isOn));
 
-        if (toggle.gameObject.name == "Custom")
-        {
 
-            if (System.Convert.ToBoolean(PlayerPrefs.GetInt("Detect Resolution")))
-            {
-
-                // toggle.isOn = false;
-            }
-            else
-            {
-                AllowCustomResolutions(toggle);
-
-            }
-
-        }
-        if (toggle.gameObject.name == "Detect Resolution")
-        {
-
-            if (!PlayerPrefs.HasKey("Detect Resolution"))
-            {
-                PlayerPrefs.SetInt("Detect Resolution", 1);
-                Debug.Log("Detect res was not set, setting it to 1");
-            }
-
-            if (System.Convert.ToBoolean(PlayerPrefs.GetInt("Detect Resolution")))
-            {
-                DetectAndSetResolution(toggle);
-                //toggle.isOn = true;
-            }
-            else
-            {
-                //toggle.isOn = false;
-            }
-
-        }
         if (toggle.gameObject.name == "VSync Toggle")
         {
             SwitchVSync(toggle);
@@ -593,18 +489,11 @@ public class OptionsManager : MonoBehaviour
     {
         PlayerPrefs.SetInt(dropdown.gameObject.name, dropdown.value);
         dropdown.RefreshShownValue();
-        if (dropdown.gameObject.name == "Resolution")
-        {
-           
-            
-            Screen.SetResolution(resolutions[PlayerPrefs.GetInt("Resolution", 0)].width, resolutions[PlayerPrefs.GetInt("Resolution", 0)].height, DisplayModes[PlayerPrefs.GetInt("Display Mode", 0)]);
-            Debug.Log("Changed resolution"); 
-        }
         if (dropdown.gameObject.name == "Display Mode")
         {
 
 
-            Screen.SetResolution(resolutions[PlayerPrefs.GetInt("Resolution", 0)].width, resolutions[PlayerPrefs.GetInt("Resolution", 0)].height, DisplayModes[PlayerPrefs.GetInt("Display Mode", 0)]);
+            Screen.SetResolution(Screen.currentResolution.width, Screen.currentResolution.height, DisplayModes[PlayerPrefs.GetInt("Display Mode", 0)]);
             Debug.Log("Changed display mode");
         }
 
